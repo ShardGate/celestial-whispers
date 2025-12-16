@@ -1,3 +1,7 @@
+![Cover Art](https://github.com/ShardGate/assets/blob/main/Banners/Project/celestial%20whispers.png?raw=true)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JWqzAaQxUXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > ⚠ This Datapack requires the use of a Resource Pack, which is *available as a separate download*. Please make sure you have activated it when playing with the pack.
 
 > ⚠ Only tested in 1.21.3. Other versions might make the pack break!
@@ -111,7 +115,7 @@ Starspawn Bonsai
 
 =====License=====================================================================================
 
-Celestial Whispers © 2024-2026 by SwitchedCube and R_Z/ShardGate is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
+Celestial Whispers © 2024-2026 by [SwitchedCube and R_Z]/ShardGate is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 An exception is made for video content, which can be monetized. However,
 video creators must give appropriate credit by leaving a link to this page and/or the ShardGate discord in the video description.
